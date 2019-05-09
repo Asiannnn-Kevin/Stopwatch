@@ -13,7 +13,7 @@ while (TRUE) {
     sec++;
     sleep(1);
 
-    if (sec == 59) {
+    if (sec == 60) {
         min++;
         sec = 0;
     }
